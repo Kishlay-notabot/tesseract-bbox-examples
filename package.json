@@ -1,0 +1,14 @@
+{
+  "name": "tesseract-bbox-examples-main",
+  "version": "1.0.0",
+  "description": "Complex examples for tesseract.js which can help users to generate and export bbox data of detected words, crop individual images etc.  <br><br> **I strongly recommend to visit the dcda repository to see and understand the use case of this code in detail.**  <br><br> These examples are coded and directly implemented during the development of this project https://github.com/Kishlay-notabot/dcda/",
+  "main": "Crop-from-exported-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^5.0.5"
+  }
+}
