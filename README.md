@@ -1,6 +1,6 @@
 # tesseract-bbox-examples V5
 ## Use node.js to run these files!
-`package-json` file included, run npm i to install dependencies before running for the first time
+`package-json` file included, run `npm i` to install dependencies before running for the first time
 Complex examples for tesseract.js which can help users to generate and export bbox data of detected words, crop individual images etc.  <br><br>
 **I strongly recommend to visit the dcda repository to see and understand the use case of this code in detail.**  <br><br>
 These examples are coded and directly implemented during the development of this project https://github.com/Kishlay-notabot/dcda/  
