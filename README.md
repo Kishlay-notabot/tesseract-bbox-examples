@@ -3,7 +3,8 @@
 `package-json` file included, run `npm i` to install dependencies before running for the first time.  
 Run these commands to run the specific files:  
 * `node ocr-and-bbox-export.js`
-* `node crop-from-exported-json.js`  
+* `node crop-from-exported-json.js`
+* When we run `OCR-and-bbox-export.js` for the first time, the `hin.traineddata` file will be downloaded and used, it is the trained model data provided by the Tesseract engine.
 
 
 Complex examples for tesseract.js which can help users to generate and export bbox data of detected words, crop individual images etc.  <br><br>
